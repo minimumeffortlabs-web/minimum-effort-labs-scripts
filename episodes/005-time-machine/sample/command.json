@@ -1,0 +1,13 @@
+{
+  "argv": [
+    "python",
+    "expense_anomaly_detector.py",
+    "sample/expenses.csv",
+    "--as-of",
+    "2026-10-20",
+    "--output",
+    "audit_report.csv"
+  ],
+  "network": false,
+  "cwd": "episode package"
+}

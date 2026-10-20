@@ -1,0 +1,501 @@
+expense_id,employee_id,expense_date,merchant,amount,description
+EXP0001,EMP001,2026-11-01,Hotel Meridian,542.06,Lunch meeting with future self
+EXP0002,EMP002,2026-11-02,Quantum Airlines,120.88,Conference registration — 2042
+EXP0003,EMP003,2026-11-03,Coffee Station,105.19,Replacement parts for time machine
+EXP0004,EMP004,2026-11-04,Hotel Meridian,35.47,Hotel stay scheduled next month
+EXP0005,EMP005,2026-11-05,Quantum Airlines,736.82,Temporal displacement allowance
+EXP0006,EMP006,2026-11-06,Coffee Station,790.09,Lunch meeting with future self
+EXP0007,EMP007,2026-11-07,Hotel Meridian,187.93,Conference registration — 2042
+EXP0008,EMP008,2026-11-08,Quantum Airlines,782.45,Replacement parts for time machine
+EXP0009,EMP009,2026-11-09,Coffee Station,412.12,Hotel stay scheduled next month
+EXP0010,EMP010,2026-11-10,Hotel Meridian,660.16,Temporal displacement allowance
+EXP0011,EMP011,2026-11-11,Quantum Airlines,552.61,Lunch meeting with future self
+EXP0012,EMP012,2026-11-12,Coffee Station,465.21,Conference registration — 2042
+EXP0013,EMP013,2026-11-13,Hotel Meridian,511.29,Replacement parts for time machine
+EXP0014,EMP014,2026-11-14,Quantum Airlines,613.92,Hotel stay scheduled next month
+EXP0015,EMP015,2026-11-15,Coffee Station,510.91,Temporal displacement allowance
+EXP0016,EMP016,2026-11-16,Hotel Meridian,148.96,Lunch meeting with future self
+EXP0017,EMP017,2026-11-17,Quantum Airlines,840.00,Conference registration — 2042
+EXP0018,EMP018,2026-11-18,Coffee Station,500.04,Replacement parts for time machine
+EXP0019,EMP019,2026-11-19,Hotel Meridian,764.13,Hotel stay scheduled next month
+EXP0020,EMP020,2026-11-20,Quantum Airlines,469.82,Temporal displacement allowance
+EXP0021,EMP021,2026-11-21,Coffee Station,726.70,Lunch meeting with future self
+EXP0022,EMP022,2026-11-22,Hotel Meridian,139.17,Conference registration — 2042
+EXP0023,EMP023,2026-11-23,Quantum Airlines,245.44,Replacement parts for time machine
+EXP0024,EMP024,2026-11-24,Coffee Station,356.88,Hotel stay scheduled next month
+EXP0025,EMP025,2026-11-25,Hotel Meridian,319.19,Temporal displacement allowance
+EXP0026,EMP026,2026-11-26,Quantum Airlines,397.46,Lunch meeting with future self
+EXP0027,EMP027,2026-11-27,Coffee Station,191.45,Conference registration — 2042
+EXP0028,EMP028,2026-11-28,Hotel Meridian,179.85,Replacement parts for time machine
+EXP0029,EMP029,2026-11-29,Quantum Airlines,528.69,Hotel stay scheduled next month
+EXP0030,EMP030,2026-11-30,Coffee Station,737.21,Temporal displacement allowance
+EXP0031,EMP031,2026-12-01,Hotel Meridian,110.54,Lunch meeting with future self
+EXP0032,EMP032,2026-12-02,Quantum Airlines,838.13,Conference registration — 2042
+EXP0033,EMP033,2026-12-03,Coffee Station,660.25,Replacement parts for time machine
+EXP0034,EMP034,2026-12-04,Hotel Meridian,72.38,Hotel stay scheduled next month
+EXP0035,EMP035,2026-12-05,Quantum Airlines,767.64,Temporal displacement allowance
+EXP0036,EMP036,2026-12-06,Coffee Station,82.30,Lunch meeting with future self
+EXP0037,EMP037,2026-12-07,Hotel Meridian,920.83,Conference registration — 2042
+EXP0038,EMP038,2026-12-08,Quantum Airlines,50.69,Replacement parts for time machine
+EXP0039,EMP039,2026-12-09,Coffee Station,62.71,Hotel stay scheduled next month
+EXP0040,EMP040,2026-12-10,Hotel Meridian,50.43,Temporal displacement allowance
+EXP0041,EMP041,2026-02-30,Quantum Airlines,676.19,Lunch meeting with future self
+EXP0042,EMP042,2026-02-30,Coffee Station,590.56,Conference registration — 2042
+EXP0043,EMP043,2026-02-30,Hotel Meridian,869.17,Replacement parts for time machine
+EXP0044,EMP044,2026-02-30,Quantum Airlines,733.52,Hotel stay scheduled next month
+EXP0045,EMP045,2026-02-30,Coffee Station,279.85,Temporal displacement allowance
+EXP0046,EMP046,2026-02-30,Hotel Meridian,296.53,Lunch meeting with future self
+EXP0047,EMP047,2026-02-30,Quantum Airlines,212.30,Conference registration — 2042
+EXP0048,EMP048,2026-02-30,Coffee Station,88.40,Replacement parts for time machine
+EXP0049,EMP049,,Hotel Meridian,19.66,Hotel stay scheduled next month
+EXP0050,EMP050,,Quantum Airlines,772.04,Temporal displacement allowance
+EXP0051,EMP051,,Coffee Station,897.29,Lunch meeting with future self
+EXP0052,EMP052,,Hotel Meridian,76.66,Conference registration — 2042
+EXP0053,EMP053,2026-08-28,Quantum Airlines,NaN,Replacement parts for time machine
+EXP0054,EMP054,2026-08-27,Coffee Station,Infinity,Hotel stay scheduled next month
+EXP0055,EMP055,2026-08-26,Hotel Meridian,0,Temporal displacement allowance
+EXP0056,EMP056,2026-08-25,Quantum Airlines,-5,Lunch meeting with future self
+EXP0057,EMP057,2026-08-24,Coffee Station,abc,Conference registration — 2042
+EXP0058,EMP058,2026-08-23,Hotel Meridian,,Replacement parts for time machine
+EXP0059,EMP059,2026-08-22,Quantum Airlines,1.234,Hotel stay scheduled next month
+EXP0060,EMP060,2026-08-21,Coffee Station,1e3,Temporal displacement allowance
+EXP0001,EMP061,2026-08-20,Hotel Meridian,512.27,Lunch meeting with future self
+EXP0002,EMP062,2026-08-19,Quantum Airlines,33.43,Conference registration — 2042
+EXP0003,EMP063,2026-08-18,Coffee Station,721.61,Replacement parts for time machine
+EXP0004,EMP064,2026-08-17,Hotel Meridian,548.79,Hotel stay scheduled next month
+EXP0005,EMP065,2026-08-16,Quantum Airlines,610.33,Temporal displacement allowance
+EXP0006,EMP066,2026-08-15,Coffee Station,523.95,Lunch meeting with future self
+EXP0067,EMP001,2026-11-01,Hotel Meridian,542.06,Conference registration — 2042
+EXP0068,EMP002,2026-11-02,Quantum Airlines,120.88,Replacement parts for time machine
+EXP0069,EMP003,2026-11-03,Coffee Station,105.19,Hotel stay scheduled next month
+EXP0070,EMP004,2026-11-04,Hotel Meridian,35.47,Temporal displacement allowance
+EXP0071,EMP005,2026-11-05,Quantum Airlines,736.82,Lunch meeting with future self
+EXP0072,EMP006,2026-11-06,Coffee Station,790.09,Conference registration — 2042
+EXP0001,EMP073,,Hotel Meridian,-1,Replacement parts for time machine
+EXP0074,EMP001,2026-08-07,Quantum Airlines,825.41,Hotel stay scheduled next month
+EXP0075,EMP002,2026-08-06,Coffee Station,55.37,Temporal displacement allowance
+EXP0076,EMP003,2026-08-05,Hotel Meridian,119.69,Lunch meeting with future self
+EXP0077,EMP004,2026-08-04,Quantum Airlines,613.09,Conference registration — 2042
+EXP0078,EMP005,2026-08-03,Coffee Station,590.05,Replacement parts for time machine
+EXP0079,EMP006,2026-08-02,Hotel Meridian,19.89,Hotel stay scheduled next month
+EXP0080,EMP007,2026-08-01,Quantum Airlines,160.77,Temporal displacement allowance
+EXP0081,EMP008,2026-07-31,Coffee Station,341.14,Lunch meeting with future self
+EXP0082,EMP009,2026-07-30,Hotel Meridian,34.81,Conference registration — 2042
+EXP0083,EMP010,2026-07-29,Quantum Airlines,101.79,Replacement parts for time machine
+EXP0084,EMP011,2026-07-28,Coffee Station,181.91,Hotel stay scheduled next month
+EXP0085,EMP012,2026-07-27,Hotel Meridian,222.05,Temporal displacement allowance
+EXP0086,EMP013,2026-07-26,Quantum Airlines,162.43,Lunch meeting with future self
+EXP0087,EMP014,2026-07-25,Coffee Station,239.31,Conference registration — 2042
+EXP0088,EMP015,2026-07-24,Hotel Meridian,26.24,Replacement parts for time machine
+EXP0089,EMP016,2026-07-23,Quantum Airlines,372.63,Hotel stay scheduled next month
+EXP0090,EMP017,2026-07-22,Coffee Station,202.23,Temporal displacement allowance
+EXP0091,EMP018,2026-07-21,Hotel Meridian,90.82,Lunch meeting with future self
+EXP0092,EMP019,2026-07-20,Quantum Airlines,88.67,Conference registration — 2042
+EXP0093,EMP020,2026-07-19,Coffee Station,60.63,Replacement parts for time machine
+EXP0094,EMP021,2026-07-18,Hotel Meridian,112.91,Hotel stay scheduled next month
+EXP0095,EMP022,2026-07-17,Quantum Airlines,647.38,Temporal displacement allowance
+EXP0096,EMP023,2026-07-16,Coffee Station,269.05,Lunch meeting with future self
+EXP0097,EMP024,2026-07-15,Hotel Meridian,316.98,Conference registration — 2042
+EXP0098,EMP025,2026-07-14,Quantum Airlines,828.93,Replacement parts for time machine
+EXP0099,EMP026,2026-07-13,Coffee Station,143.83,Hotel stay scheduled next month
+EXP0100,EMP027,2026-07-12,Hotel Meridian,172.72,Temporal displacement allowance
+EXP0101,EMP028,2026-07-11,Quantum Airlines,400.66,Lunch meeting with future self
+EXP0102,EMP029,2026-07-10,Coffee Station,430.51,Conference registration — 2042
+EXP0103,EMP030,2026-07-09,Hotel Meridian,609.18,Replacement parts for time machine
+EXP0104,EMP031,2026-07-08,Quantum Airlines,649.23,Hotel stay scheduled next month
+EXP0105,EMP032,2026-07-07,Coffee Station,436.23,Temporal displacement allowance
+EXP0106,EMP033,2026-07-06,Hotel Meridian,816.13,Lunch meeting with future self
+EXP0107,EMP034,2026-07-05,Quantum Airlines,110.34,Conference registration — 2042
+EXP0108,EMP035,2026-07-04,Coffee Station,391.07,Replacement parts for time machine
+EXP0109,EMP036,2026-07-03,Hotel Meridian,480.97,Hotel stay scheduled next month
+EXP0110,EMP037,2026-07-02,Quantum Airlines,854.54,Temporal displacement allowance
+EXP0111,EMP038,2026-07-01,Coffee Station,471.44,Lunch meeting with future self
+EXP0112,EMP039,2026-06-30,Hotel Meridian,559.00,Conference registration — 2042
+EXP0113,EMP040,2026-06-29,Quantum Airlines,526.42,Replacement parts for time machine
+EXP0114,EMP041,2026-06-28,Coffee Station,721.84,Hotel stay scheduled next month
+EXP0115,EMP042,2026-06-27,Hotel Meridian,152.10,Temporal displacement allowance
+EXP0116,EMP043,2026-06-26,Quantum Airlines,387.31,Lunch meeting with future self
+EXP0117,EMP044,2026-06-25,Coffee Station,695.60,Conference registration — 2042
+EXP0118,EMP045,2026-06-24,Hotel Meridian,402.53,Replacement parts for time machine
+EXP0119,EMP046,2026-06-23,Quantum Airlines,454.62,Hotel stay scheduled next month
+EXP0120,EMP047,2026-06-22,Coffee Station,545.08,Temporal displacement allowance
+EXP0121,EMP048,2026-06-21,Hotel Meridian,658.68,Lunch meeting with future self
+EXP0122,EMP049,2026-06-20,Quantum Airlines,793.07,Conference registration — 2042
+EXP0123,EMP050,2026-06-19,Coffee Station,810.59,Replacement parts for time machine
+EXP0124,EMP051,2026-06-18,Hotel Meridian,479.51,Hotel stay scheduled next month
+EXP0125,EMP052,2026-06-17,Quantum Airlines,381.41,Temporal displacement allowance
+EXP0126,EMP053,2026-06-16,Coffee Station,274.38,Lunch meeting with future self
+EXP0127,EMP054,2026-06-15,Hotel Meridian,923.93,Conference registration — 2042
+EXP0128,EMP055,2026-06-14,Quantum Airlines,336.73,Replacement parts for time machine
+EXP0129,EMP056,2026-06-13,Coffee Station,716.02,Hotel stay scheduled next month
+EXP0130,EMP057,2026-06-12,Hotel Meridian,384.40,Temporal displacement allowance
+EXP0131,EMP058,2026-06-11,Quantum Airlines,353.34,Lunch meeting with future self
+EXP0132,EMP059,2026-06-10,Coffee Station,140.94,Conference registration — 2042
+EXP0133,EMP060,2026-06-09,Hotel Meridian,10.67,Replacement parts for time machine
+EXP0134,EMP061,2026-06-08,Quantum Airlines,459.24,Hotel stay scheduled next month
+EXP0135,EMP062,2026-06-07,Coffee Station,678.27,Temporal displacement allowance
+EXP0136,EMP063,2026-06-06,Hotel Meridian,245.72,Lunch meeting with future self
+EXP0137,EMP064,2026-06-05,Quantum Airlines,659.44,Conference registration — 2042
+EXP0138,EMP065,2026-06-04,Coffee Station,285.63,Replacement parts for time machine
+EXP0139,EMP066,2026-06-03,Hotel Meridian,522.82,Hotel stay scheduled next month
+EXP0140,EMP067,2026-06-02,Quantum Airlines,612.74,Temporal displacement allowance
+EXP0141,EMP068,2026-06-01,Coffee Station,234.74,Lunch meeting with future self
+EXP0142,EMP069,2026-05-31,Hotel Meridian,889.66,Conference registration — 2042
+EXP0143,EMP070,2026-05-30,Quantum Airlines,372.32,Replacement parts for time machine
+EXP0144,EMP071,2026-05-29,Coffee Station,522.61,Hotel stay scheduled next month
+EXP0145,EMP072,2026-05-28,Hotel Meridian,11.30,Temporal displacement allowance
+EXP0146,EMP073,2026-05-27,Quantum Airlines,814.93,Lunch meeting with future self
+EXP0147,EMP001,2026-05-26,Coffee Station,947.98,Conference registration — 2042
+EXP0148,EMP002,2026-05-25,Hotel Meridian,58.71,Replacement parts for time machine
+EXP0149,EMP003,2026-05-24,Quantum Airlines,60.88,Hotel stay scheduled next month
+EXP0150,EMP004,2026-05-23,Coffee Station,813.13,Temporal displacement allowance
+EXP0151,EMP005,2026-10-19,Hotel Meridian,227.15,Lunch meeting with future self
+EXP0152,EMP006,2026-10-18,Quantum Airlines,561.73,Conference registration — 2042
+EXP0153,EMP007,2026-10-17,Coffee Station,244.12,Replacement parts for time machine
+EXP0154,EMP008,2026-10-16,Hotel Meridian,352.14,Hotel stay scheduled next month
+EXP0155,EMP009,2026-10-15,Quantum Airlines,306.33,Temporal displacement allowance
+EXP0156,EMP010,2026-10-14,Coffee Station,717.32,Lunch meeting with future self
+EXP0157,EMP011,2026-10-13,Hotel Meridian,405.27,Conference registration — 2042
+EXP0158,EMP012,2026-10-12,Quantum Airlines,295.29,Replacement parts for time machine
+EXP0159,EMP013,2026-10-11,Coffee Station,284.39,Hotel stay scheduled next month
+EXP0160,EMP014,2026-10-10,Hotel Meridian,134.61,Temporal displacement allowance
+EXP0161,EMP015,2026-10-09,Quantum Airlines,327.64,Lunch meeting with future self
+EXP0162,EMP016,2026-10-08,Coffee Station,938.94,Conference registration — 2042
+EXP0163,EMP017,2026-10-07,Hotel Meridian,340.88,Replacement parts for time machine
+EXP0164,EMP018,2026-10-06,Quantum Airlines,576.77,Hotel stay scheduled next month
+EXP0165,EMP019,2026-10-05,Coffee Station,339.98,Temporal displacement allowance
+EXP0166,EMP020,2026-10-04,Hotel Meridian,530.14,Lunch meeting with future self
+EXP0167,EMP021,2026-10-03,Quantum Airlines,233.18,Conference registration — 2042
+EXP0168,EMP022,2026-10-02,Coffee Station,818.93,Replacement parts for time machine
+EXP0169,EMP023,2026-10-01,Hotel Meridian,653.25,Hotel stay scheduled next month
+EXP0170,EMP024,2026-09-30,Quantum Airlines,794.10,Temporal displacement allowance
+EXP0171,EMP025,2026-09-29,Coffee Station,849.54,Lunch meeting with future self
+EXP0172,EMP026,2026-09-28,Hotel Meridian,322.87,Conference registration — 2042
+EXP0173,EMP027,2026-09-27,Quantum Airlines,490.59,Replacement parts for time machine
+EXP0174,EMP028,2026-09-26,Coffee Station,501.59,Hotel stay scheduled next month
+EXP0175,EMP029,2026-09-25,Hotel Meridian,571.79,Temporal displacement allowance
+EXP0176,EMP030,2026-09-24,Quantum Airlines,843.11,Lunch meeting with future self
+EXP0177,EMP031,2026-09-23,Coffee Station,810.56,Conference registration — 2042
+EXP0178,EMP032,2026-09-22,Hotel Meridian,614.28,Replacement parts for time machine
+EXP0179,EMP033,2026-09-21,Quantum Airlines,938.65,Hotel stay scheduled next month
+EXP0180,EMP034,2026-09-20,Coffee Station,400.36,Temporal displacement allowance
+EXP0181,EMP035,2026-09-19,Hotel Meridian,909.59,Lunch meeting with future self
+EXP0182,EMP036,2026-09-18,Quantum Airlines,487.78,Conference registration — 2042
+EXP0183,EMP037,2026-09-17,Coffee Station,310.56,Replacement parts for time machine
+EXP0184,EMP038,2026-09-16,Hotel Meridian,804.33,Hotel stay scheduled next month
+EXP0185,EMP039,2026-09-15,Quantum Airlines,873.07,Temporal displacement allowance
+EXP0186,EMP040,2026-09-14,Coffee Station,65.04,Lunch meeting with future self
+EXP0187,EMP041,2026-09-13,Hotel Meridian,496.83,Conference registration — 2042
+EXP0188,EMP042,2026-09-12,Quantum Airlines,44.17,Replacement parts for time machine
+EXP0189,EMP043,2026-09-11,Coffee Station,709.61,Hotel stay scheduled next month
+EXP0190,EMP044,2026-09-10,Hotel Meridian,272.48,Temporal displacement allowance
+EXP0191,EMP045,2026-09-09,Quantum Airlines,507.88,Lunch meeting with future self
+EXP0192,EMP046,2026-09-08,Coffee Station,775.55,Conference registration — 2042
+EXP0193,EMP047,2026-09-07,Hotel Meridian,8.49,Replacement parts for time machine
+EXP0194,EMP048,2026-09-06,Quantum Airlines,94.82,Hotel stay scheduled next month
+EXP0195,EMP049,2026-09-05,Coffee Station,444.29,Temporal displacement allowance
+EXP0196,EMP050,2026-09-04,Hotel Meridian,622.04,Lunch meeting with future self
+EXP0197,EMP051,2026-09-03,Quantum Airlines,372.67,Conference registration — 2042
+EXP0198,EMP052,2026-09-02,Coffee Station,770.95,Replacement parts for time machine
+EXP0199,EMP053,2026-09-01,Hotel Meridian,294.23,Hotel stay scheduled next month
+EXP0200,EMP054,2026-08-31,Quantum Airlines,310.01,Temporal displacement allowance
+EXP0201,EMP055,2026-08-30,Coffee Station,492.37,Lunch meeting with future self
+EXP0202,EMP056,2026-08-29,Hotel Meridian,160.08,Conference registration — 2042
+EXP0203,EMP057,2026-08-28,Quantum Airlines,603.75,Replacement parts for time machine
+EXP0204,EMP058,2026-08-27,Coffee Station,602.47,Hotel stay scheduled next month
+EXP0205,EMP059,2026-08-26,Hotel Meridian,511.25,Temporal displacement allowance
+EXP0206,EMP060,2026-08-25,Quantum Airlines,848.80,Lunch meeting with future self
+EXP0207,EMP061,2026-08-24,Coffee Station,683.79,Conference registration — 2042
+EXP0208,EMP062,2026-08-23,Hotel Meridian,861.63,Replacement parts for time machine
+EXP0209,EMP063,2026-08-22,Quantum Airlines,46.03,Hotel stay scheduled next month
+EXP0210,EMP064,2026-08-21,Coffee Station,547.51,Temporal displacement allowance
+EXP0211,EMP065,2026-08-20,Hotel Meridian,204.26,Lunch meeting with future self
+EXP0212,EMP066,2026-08-19,Quantum Airlines,842.52,Conference registration — 2042
+EXP0213,EMP067,2026-08-18,Coffee Station,852.36,Replacement parts for time machine
+EXP0214,EMP068,2026-08-17,Hotel Meridian,638.13,Hotel stay scheduled next month
+EXP0215,EMP069,2026-08-16,Quantum Airlines,929.42,Temporal displacement allowance
+EXP0216,EMP070,2026-08-15,Coffee Station,89.18,Lunch meeting with future self
+EXP0217,EMP071,2026-08-14,Hotel Meridian,289.02,Conference registration — 2042
+EXP0218,EMP072,2026-08-13,Quantum Airlines,558.49,Replacement parts for time machine
+EXP0219,EMP073,2026-08-12,Coffee Station,642.57,Hotel stay scheduled next month
+EXP0220,EMP001,2026-08-11,Hotel Meridian,47.25,Temporal displacement allowance
+EXP0221,EMP002,2026-08-10,Quantum Airlines,902.73,Lunch meeting with future self
+EXP0222,EMP003,2026-08-09,Coffee Station,487.88,Conference registration — 2042
+EXP0223,EMP004,2026-08-08,Hotel Meridian,6.79,Replacement parts for time machine
+EXP0224,EMP005,2026-08-07,Quantum Airlines,729.19,Hotel stay scheduled next month
+EXP0225,EMP006,2026-08-06,Coffee Station,391.76,Temporal displacement allowance
+EXP0226,EMP007,2026-08-05,Hotel Meridian,651.74,Lunch meeting with future self
+EXP0227,EMP008,2026-08-04,Quantum Airlines,384.80,Conference registration — 2042
+EXP0228,EMP009,2026-08-03,Coffee Station,311.12,Replacement parts for time machine
+EXP0229,EMP010,2026-08-02,Hotel Meridian,18.32,Hotel stay scheduled next month
+EXP0230,EMP011,2026-08-01,Quantum Airlines,92.28,Temporal displacement allowance
+EXP0231,EMP012,2026-07-31,Coffee Station,271.84,Lunch meeting with future self
+EXP0232,EMP013,2026-07-30,Hotel Meridian,141.11,Conference registration — 2042
+EXP0233,EMP014,2026-07-29,Quantum Airlines,521.83,Replacement parts for time machine
+EXP0234,EMP015,2026-07-28,Coffee Station,348.68,Hotel stay scheduled next month
+EXP0235,EMP016,2026-07-27,Hotel Meridian,660.28,Temporal displacement allowance
+EXP0236,EMP017,2026-07-26,Quantum Airlines,158.29,Lunch meeting with future self
+EXP0237,EMP018,2026-07-25,Coffee Station,206.70,Conference registration — 2042
+EXP0238,EMP019,2026-07-24,Hotel Meridian,759.06,Replacement parts for time machine
+EXP0239,EMP020,2026-07-23,Quantum Airlines,670.25,Hotel stay scheduled next month
+EXP0240,EMP021,2026-07-22,Coffee Station,555.10,Temporal displacement allowance
+EXP0241,EMP022,2026-07-21,Hotel Meridian,697.62,Lunch meeting with future self
+EXP0242,EMP023,2026-07-20,Quantum Airlines,911.17,Conference registration — 2042
+EXP0243,EMP024,2026-07-19,Coffee Station,435.57,Replacement parts for time machine
+EXP0244,EMP025,2026-07-18,Hotel Meridian,452.24,Hotel stay scheduled next month
+EXP0245,EMP026,2026-07-17,Quantum Airlines,225.51,Temporal displacement allowance
+EXP0246,EMP027,2026-07-16,Coffee Station,113.25,Lunch meeting with future self
+EXP0247,EMP028,2026-07-15,Hotel Meridian,912.46,Conference registration — 2042
+EXP0248,EMP029,2026-07-14,Quantum Airlines,834.53,Replacement parts for time machine
+EXP0249,EMP030,2026-07-13,Coffee Station,355.17,Hotel stay scheduled next month
+EXP0250,EMP031,2026-07-12,Hotel Meridian,158.59,Temporal displacement allowance
+EXP0251,EMP032,2026-07-11,Quantum Airlines,917.48,Lunch meeting with future self
+EXP0252,EMP033,2026-07-10,Coffee Station,164.86,Conference registration — 2042
+EXP0253,EMP034,2026-07-09,Hotel Meridian,724.69,Replacement parts for time machine
+EXP0254,EMP035,2026-07-08,Quantum Airlines,865.88,Hotel stay scheduled next month
+EXP0255,EMP036,2026-07-07,Coffee Station,840.35,Temporal displacement allowance
+EXP0256,EMP037,2026-07-06,Hotel Meridian,229.63,Lunch meeting with future self
+EXP0257,EMP038,2026-07-05,Quantum Airlines,230.26,Conference registration — 2042
+EXP0258,EMP039,2026-07-04,Coffee Station,193.99,Replacement parts for time machine
+EXP0259,EMP040,2026-07-03,Hotel Meridian,438.46,Hotel stay scheduled next month
+EXP0260,EMP041,2026-07-02,Quantum Airlines,499.24,Temporal displacement allowance
+EXP0261,EMP042,2026-07-01,Coffee Station,643.20,Lunch meeting with future self
+EXP0262,EMP043,2026-06-30,Hotel Meridian,721.03,Conference registration — 2042
+EXP0263,EMP044,2026-06-29,Quantum Airlines,728.57,Replacement parts for time machine
+EXP0264,EMP045,2026-06-28,Coffee Station,143.73,Hotel stay scheduled next month
+EXP0265,EMP046,2026-06-27,Hotel Meridian,436.07,Temporal displacement allowance
+EXP0266,EMP047,2026-06-26,Quantum Airlines,764.07,Lunch meeting with future self
+EXP0267,EMP048,2026-06-25,Coffee Station,540.03,Conference registration — 2042
+EXP0268,EMP049,2026-06-24,Hotel Meridian,553.33,Replacement parts for time machine
+EXP0269,EMP050,2026-06-23,Quantum Airlines,212.18,Hotel stay scheduled next month
+EXP0270,EMP051,2026-06-22,Coffee Station,779.40,Temporal displacement allowance
+EXP0271,EMP052,2026-06-21,Hotel Meridian,218.18,Lunch meeting with future self
+EXP0272,EMP053,2026-06-20,Quantum Airlines,111.22,Conference registration — 2042
+EXP0273,EMP054,2026-06-19,Coffee Station,196.26,Replacement parts for time machine
+EXP0274,EMP055,2026-06-18,Hotel Meridian,570.15,Hotel stay scheduled next month
+EXP0275,EMP056,2026-06-17,Quantum Airlines,914.04,Temporal displacement allowance
+EXP0276,EMP057,2026-06-16,Coffee Station,285.25,Lunch meeting with future self
+EXP0277,EMP058,2026-06-15,Hotel Meridian,317.37,Conference registration — 2042
+EXP0278,EMP059,2026-06-14,Quantum Airlines,444.08,Replacement parts for time machine
+EXP0279,EMP060,2026-06-13,Coffee Station,562.19,Hotel stay scheduled next month
+EXP0280,EMP061,2026-06-12,Hotel Meridian,164.02,Temporal displacement allowance
+EXP0281,EMP062,2026-06-11,Quantum Airlines,728.27,Lunch meeting with future self
+EXP0282,EMP063,2026-06-10,Coffee Station,912.79,Conference registration — 2042
+EXP0283,EMP064,2026-06-09,Hotel Meridian,686.49,Replacement parts for time machine
+EXP0284,EMP065,2026-06-08,Quantum Airlines,665.57,Hotel stay scheduled next month
+EXP0285,EMP066,2026-06-07,Coffee Station,22.15,Temporal displacement allowance
+EXP0286,EMP067,2026-06-06,Hotel Meridian,501.09,Lunch meeting with future self
+EXP0287,EMP068,2026-06-05,Quantum Airlines,50.74,Conference registration — 2042
+EXP0288,EMP069,2026-06-04,Coffee Station,396.50,Replacement parts for time machine
+EXP0289,EMP070,2026-06-03,Hotel Meridian,904.91,Hotel stay scheduled next month
+EXP0290,EMP071,2026-06-02,Quantum Airlines,112.36,Temporal displacement allowance
+EXP0291,EMP072,2026-06-01,Coffee Station,617.81,Lunch meeting with future self
+EXP0292,EMP073,2026-05-31,Hotel Meridian,91.34,Conference registration — 2042
+EXP0293,EMP001,2026-05-30,Quantum Airlines,37.42,Replacement parts for time machine
+EXP0294,EMP002,2026-05-29,Coffee Station,706.31,Hotel stay scheduled next month
+EXP0295,EMP003,2026-05-28,Hotel Meridian,302.10,Temporal displacement allowance
+EXP0296,EMP004,2026-05-27,Quantum Airlines,542.44,Lunch meeting with future self
+EXP0297,EMP005,2026-05-26,Coffee Station,709.84,Conference registration — 2042
+EXP0298,EMP006,2026-05-25,Hotel Meridian,445.80,Replacement parts for time machine
+EXP0299,EMP007,2026-05-24,Quantum Airlines,157.99,Hotel stay scheduled next month
+EXP0300,EMP008,2026-05-23,Coffee Station,880.93,Temporal displacement allowance
+EXP0301,EMP009,2026-10-19,Hotel Meridian,22.40,Lunch meeting with future self
+EXP0302,EMP010,2026-10-18,Quantum Airlines,110.42,Conference registration — 2042
+EXP0303,EMP011,2026-10-17,Coffee Station,95.84,Replacement parts for time machine
+EXP0304,EMP012,2026-10-16,Hotel Meridian,207.94,Hotel stay scheduled next month
+EXP0305,EMP013,2026-10-15,Quantum Airlines,285.26,Temporal displacement allowance
+EXP0306,EMP014,2026-10-14,Coffee Station,757.20,Lunch meeting with future self
+EXP0307,EMP015,2026-10-13,Hotel Meridian,728.05,Conference registration — 2042
+EXP0308,EMP016,2026-10-12,Quantum Airlines,186.33,Replacement parts for time machine
+EXP0309,EMP017,2026-10-11,Coffee Station,250.38,Hotel stay scheduled next month
+EXP0310,EMP018,2026-10-10,Hotel Meridian,229.65,Temporal displacement allowance
+EXP0311,EMP019,2026-10-09,Quantum Airlines,827.00,Lunch meeting with future self
+EXP0312,EMP020,2026-10-08,Coffee Station,509.16,Conference registration — 2042
+EXP0313,EMP021,2026-10-07,Hotel Meridian,118.00,Replacement parts for time machine
+EXP0314,EMP022,2026-10-06,Quantum Airlines,462.99,Hotel stay scheduled next month
+EXP0315,EMP023,2026-10-05,Coffee Station,795.41,Temporal displacement allowance
+EXP0316,EMP024,2026-10-04,Hotel Meridian,238.61,Lunch meeting with future self
+EXP0317,EMP025,2026-10-03,Quantum Airlines,186.29,Conference registration — 2042
+EXP0318,EMP026,2026-10-02,Coffee Station,318.28,Replacement parts for time machine
+EXP0319,EMP027,2026-10-01,Hotel Meridian,241.80,Hotel stay scheduled next month
+EXP0320,EMP028,2026-09-30,Quantum Airlines,932.24,Temporal displacement allowance
+EXP0321,EMP029,2026-09-29,Coffee Station,569.86,Lunch meeting with future self
+EXP0322,EMP030,2026-09-28,Hotel Meridian,704.87,Conference registration — 2042
+EXP0323,EMP031,2026-09-27,Quantum Airlines,350.09,Replacement parts for time machine
+EXP0324,EMP032,2026-09-26,Coffee Station,717.35,Hotel stay scheduled next month
+EXP0325,EMP033,2026-09-25,Hotel Meridian,380.99,Temporal displacement allowance
+EXP0326,EMP034,2026-09-24,Quantum Airlines,445.69,Lunch meeting with future self
+EXP0327,EMP035,2026-09-23,Coffee Station,548.67,Conference registration — 2042
+EXP0328,EMP036,2026-09-22,Hotel Meridian,11.24,Replacement parts for time machine
+EXP0329,EMP037,2026-09-21,Quantum Airlines,17.99,Hotel stay scheduled next month
+EXP0330,EMP038,2026-09-20,Coffee Station,940.95,Temporal displacement allowance
+EXP0331,EMP039,2026-09-19,Hotel Meridian,485.83,Lunch meeting with future self
+EXP0332,EMP040,2026-09-18,Quantum Airlines,142.20,Conference registration — 2042
+EXP0333,EMP041,2026-09-17,Coffee Station,51.19,Replacement parts for time machine
+EXP0334,EMP042,2026-09-16,Hotel Meridian,384.55,Hotel stay scheduled next month
+EXP0335,EMP043,2026-09-15,Quantum Airlines,53.04,Temporal displacement allowance
+EXP0336,EMP044,2026-09-14,Coffee Station,622.65,Lunch meeting with future self
+EXP0337,EMP045,2026-09-13,Hotel Meridian,287.34,Conference registration — 2042
+EXP0338,EMP046,2026-09-12,Quantum Airlines,131.61,Replacement parts for time machine
+EXP0339,EMP047,2026-09-11,Coffee Station,350.98,Hotel stay scheduled next month
+EXP0340,EMP048,2026-09-10,Hotel Meridian,25.25,Temporal displacement allowance
+EXP0341,EMP049,2026-09-09,Quantum Airlines,97.91,Lunch meeting with future self
+EXP0342,EMP050,2026-09-08,Coffee Station,138.52,Conference registration — 2042
+EXP0343,EMP051,2026-09-07,Hotel Meridian,346.39,Replacement parts for time machine
+EXP0344,EMP052,2026-09-06,Quantum Airlines,721.90,Hotel stay scheduled next month
+EXP0345,EMP053,2026-09-05,Coffee Station,765.57,Temporal displacement allowance
+EXP0346,EMP054,2026-09-04,Hotel Meridian,940.63,Lunch meeting with future self
+EXP0347,EMP055,2026-09-03,Quantum Airlines,92.36,Conference registration — 2042
+EXP0348,EMP056,2026-09-02,Coffee Station,871.23,Replacement parts for time machine
+EXP0349,EMP057,2026-09-01,Hotel Meridian,912.71,Hotel stay scheduled next month
+EXP0350,EMP058,2026-08-31,Quantum Airlines,726.33,Temporal displacement allowance
+EXP0351,EMP059,2026-08-30,Coffee Station,179.21,Lunch meeting with future self
+EXP0352,EMP060,2026-08-29,Hotel Meridian,461.85,Conference registration — 2042
+EXP0353,EMP061,2026-08-28,Quantum Airlines,129.21,Replacement parts for time machine
+EXP0354,EMP062,2026-08-27,Coffee Station,680.12,Hotel stay scheduled next month
+EXP0355,EMP063,2026-08-26,Hotel Meridian,42.57,Temporal displacement allowance
+EXP0356,EMP064,2026-08-25,Quantum Airlines,788.72,Lunch meeting with future self
+EXP0357,EMP065,2026-08-24,Coffee Station,759.51,Conference registration — 2042
+EXP0358,EMP066,2026-08-23,Hotel Meridian,821.47,Replacement parts for time machine
+EXP0359,EMP067,2026-08-22,Quantum Airlines,705.37,Hotel stay scheduled next month
+EXP0360,EMP068,2026-08-21,Coffee Station,854.01,Temporal displacement allowance
+EXP0361,EMP069,2026-08-20,Hotel Meridian,536.56,Lunch meeting with future self
+EXP0362,EMP070,2026-08-19,Quantum Airlines,273.06,Conference registration — 2042
+EXP0363,EMP071,2026-08-18,Coffee Station,81.30,Replacement parts for time machine
+EXP0364,EMP072,2026-08-17,Hotel Meridian,369.59,Hotel stay scheduled next month
+EXP0365,EMP073,2026-08-16,Quantum Airlines,411.72,Temporal displacement allowance
+EXP0366,EMP001,2026-08-15,Coffee Station,705.24,Lunch meeting with future self
+EXP0367,EMP002,2026-08-14,Hotel Meridian,864.57,Conference registration — 2042
+EXP0368,EMP003,2026-08-13,Quantum Airlines,381.12,Replacement parts for time machine
+EXP0369,EMP004,2026-08-12,Coffee Station,351.54,Hotel stay scheduled next month
+EXP0370,EMP005,2026-08-11,Hotel Meridian,824.22,Temporal displacement allowance
+EXP0371,EMP006,2026-08-10,Quantum Airlines,639.96,Lunch meeting with future self
+EXP0372,EMP007,2026-08-09,Coffee Station,5.73,Conference registration — 2042
+EXP0373,EMP008,2026-08-08,Hotel Meridian,608.81,Replacement parts for time machine
+EXP0374,EMP009,2026-08-07,Quantum Airlines,907.93,Hotel stay scheduled next month
+EXP0375,EMP010,2026-08-06,Coffee Station,490.67,Temporal displacement allowance
+EXP0376,EMP011,2026-08-05,Hotel Meridian,387.87,Lunch meeting with future self
+EXP0377,EMP012,2026-08-04,Quantum Airlines,119.40,Conference registration — 2042
+EXP0378,EMP013,2026-08-03,Coffee Station,504.24,Replacement parts for time machine
+EXP0379,EMP014,2026-08-02,Hotel Meridian,590.36,Hotel stay scheduled next month
+EXP0380,EMP015,2026-08-01,Quantum Airlines,297.08,Temporal displacement allowance
+EXP0381,EMP016,2026-07-31,Coffee Station,846.19,Lunch meeting with future self
+EXP0382,EMP017,2026-07-30,Hotel Meridian,217.88,Conference registration — 2042
+EXP0383,EMP018,2026-07-29,Quantum Airlines,366.42,Replacement parts for time machine
+EXP0384,EMP019,2026-07-28,Coffee Station,920.44,Hotel stay scheduled next month
+EXP0385,EMP020,2026-07-27,Hotel Meridian,829.42,Temporal displacement allowance
+EXP0386,EMP021,2026-07-26,Quantum Airlines,201.49,Lunch meeting with future self
+EXP0387,EMP022,2026-07-25,Coffee Station,881.65,Conference registration — 2042
+EXP0388,EMP023,2026-07-24,Hotel Meridian,261.02,Replacement parts for time machine
+EXP0389,EMP024,2026-07-23,Quantum Airlines,777.74,Hotel stay scheduled next month
+EXP0390,EMP025,2026-07-22,Coffee Station,764.51,Temporal displacement allowance
+EXP0391,EMP026,2026-07-21,Hotel Meridian,881.78,Lunch meeting with future self
+EXP0392,EMP027,2026-07-20,Quantum Airlines,396.50,Conference registration — 2042
+EXP0393,EMP028,2026-07-19,Coffee Station,228.29,Replacement parts for time machine
+EXP0394,EMP029,2026-07-18,Hotel Meridian,326.74,Hotel stay scheduled next month
+EXP0395,EMP030,2026-07-17,Quantum Airlines,119.52,Temporal displacement allowance
+EXP0396,EMP031,2026-07-16,Coffee Station,467.60,Lunch meeting with future self
+EXP0397,EMP032,2026-07-15,Hotel Meridian,759.45,Conference registration — 2042
+EXP0398,EMP033,2026-07-14,Quantum Airlines,543.47,Replacement parts for time machine
+EXP0399,EMP034,2026-07-13,Coffee Station,425.14,Hotel stay scheduled next month
+EXP0400,EMP035,2026-07-12,Hotel Meridian,699.68,Temporal displacement allowance
+EXP0401,EMP036,2026-07-11,Quantum Airlines,576.98,Lunch meeting with future self
+EXP0402,EMP037,2026-07-10,Coffee Station,135.25,Conference registration — 2042
+EXP0403,EMP038,2026-07-09,Hotel Meridian,859.51,Replacement parts for time machine
+EXP0404,EMP039,2026-07-08,Quantum Airlines,633.30,Hotel stay scheduled next month
+EXP0405,EMP040,2026-07-07,Coffee Station,437.09,Temporal displacement allowance
+EXP0406,EMP041,2026-07-06,Hotel Meridian,143.04,Lunch meeting with future self
+EXP0407,EMP042,2026-07-05,Quantum Airlines,778.86,Conference registration — 2042
+EXP0408,EMP043,2026-07-04,Coffee Station,124.91,Replacement parts for time machine
+EXP0409,EMP044,2026-07-03,Hotel Meridian,123.34,Hotel stay scheduled next month
+EXP0410,EMP045,2026-07-02,Quantum Airlines,552.14,Temporal displacement allowance
+EXP0411,EMP046,2026-07-01,Coffee Station,223.76,Lunch meeting with future self
+EXP0412,EMP047,2026-06-30,Hotel Meridian,423.88,Conference registration — 2042
+EXP0413,EMP048,2026-06-29,Quantum Airlines,573.04,Replacement parts for time machine
+EXP0414,EMP049,2026-06-28,Coffee Station,223.77,Hotel stay scheduled next month
+EXP0415,EMP050,2026-06-27,Hotel Meridian,625.26,Temporal displacement allowance
+EXP0416,EMP051,2026-06-26,Quantum Airlines,438.23,Lunch meeting with future self
+EXP0417,EMP052,2026-06-25,Coffee Station,805.28,Conference registration — 2042
+EXP0418,EMP053,2026-06-24,Hotel Meridian,421.17,Replacement parts for time machine
+EXP0419,EMP054,2026-06-23,Quantum Airlines,51.62,Hotel stay scheduled next month
+EXP0420,EMP055,2026-06-22,Coffee Station,619.88,Temporal displacement allowance
+EXP0421,EMP056,2026-06-21,Hotel Meridian,104.16,Lunch meeting with future self
+EXP0422,EMP057,2026-06-20,Quantum Airlines,768.97,Conference registration — 2042
+EXP0423,EMP058,2026-06-19,Coffee Station,490.13,Replacement parts for time machine
+EXP0424,EMP059,2026-06-18,Hotel Meridian,279.91,Hotel stay scheduled next month
+EXP0425,EMP060,2026-06-17,Quantum Airlines,435.58,Temporal displacement allowance
+EXP0426,EMP061,2026-06-16,Coffee Station,527.58,Lunch meeting with future self
+EXP0427,EMP062,2026-06-15,Hotel Meridian,219.77,Conference registration — 2042
+EXP0428,EMP063,2026-06-14,Quantum Airlines,749.53,Replacement parts for time machine
+EXP0429,EMP064,2026-06-13,Coffee Station,910.44,Hotel stay scheduled next month
+EXP0430,EMP065,2026-06-12,Hotel Meridian,391.00,Temporal displacement allowance
+EXP0431,EMP066,2026-06-11,Quantum Airlines,227.77,Lunch meeting with future self
+EXP0432,EMP067,2026-06-10,Coffee Station,628.36,Conference registration — 2042
+EXP0433,EMP068,2026-06-09,Hotel Meridian,117.37,Replacement parts for time machine
+EXP0434,EMP069,2026-06-08,Quantum Airlines,590.56,Hotel stay scheduled next month
+EXP0435,EMP070,2026-06-07,Coffee Station,463.47,Temporal displacement allowance
+EXP0436,EMP071,2026-06-06,Hotel Meridian,860.94,Lunch meeting with future self
+EXP0437,EMP072,2026-06-05,Quantum Airlines,309.14,Conference registration — 2042
+EXP0438,EMP073,2026-06-04,Coffee Station,452.99,Replacement parts for time machine
+EXP0439,EMP001,2026-06-03,Hotel Meridian,123.74,Hotel stay scheduled next month
+EXP0440,EMP002,2026-06-02,Quantum Airlines,91.04,Temporal displacement allowance
+EXP0441,EMP003,2026-06-01,Coffee Station,615.04,Lunch meeting with future self
+EXP0442,EMP004,2026-05-31,Hotel Meridian,187.13,Conference registration — 2042
+EXP0443,EMP005,2026-05-30,Quantum Airlines,208.06,Replacement parts for time machine
+EXP0444,EMP006,2026-05-29,Coffee Station,212.96,Hotel stay scheduled next month
+EXP0445,EMP007,2026-05-28,Hotel Meridian,169.86,Temporal displacement allowance
+EXP0446,EMP008,2026-05-27,Quantum Airlines,33.87,Lunch meeting with future self
+EXP0447,EMP009,2026-05-26,Coffee Station,453.18,Conference registration — 2042
+EXP0448,EMP010,2026-05-25,Hotel Meridian,580.74,Replacement parts for time machine
+EXP0449,EMP011,2026-05-24,Quantum Airlines,167.41,Hotel stay scheduled next month
+EXP0450,EMP012,2026-05-23,Coffee Station,564.99,Temporal displacement allowance
+EXP0451,EMP013,2026-10-19,Hotel Meridian,301.10,Lunch meeting with future self
+EXP0452,EMP014,2026-10-18,Quantum Airlines,722.17,Conference registration — 2042
+EXP0453,EMP015,2026-10-17,Coffee Station,907.19,Replacement parts for time machine
+EXP0454,EMP016,2026-10-16,Hotel Meridian,139.40,Hotel stay scheduled next month
+EXP0455,EMP017,2026-10-15,Quantum Airlines,98.57,Temporal displacement allowance
+EXP0456,EMP018,2026-10-14,Coffee Station,603.00,Lunch meeting with future self
+EXP0457,EMP019,2026-10-13,Hotel Meridian,550.37,Conference registration — 2042
+EXP0458,EMP020,2026-10-12,Quantum Airlines,469.56,Replacement parts for time machine
+EXP0459,EMP021,2026-10-11,Coffee Station,220.77,Hotel stay scheduled next month
+EXP0460,EMP022,2026-10-10,Hotel Meridian,628.23,Temporal displacement allowance
+EXP0461,EMP023,2026-10-09,Quantum Airlines,752.39,Lunch meeting with future self
+EXP0462,EMP024,2026-10-08,Coffee Station,895.44,Conference registration — 2042
+EXP0463,EMP025,2026-10-07,Hotel Meridian,797.22,Replacement parts for time machine
+EXP0464,EMP026,2026-10-06,Quantum Airlines,763.42,Hotel stay scheduled next month
+EXP0465,EMP027,2026-10-05,Coffee Station,296.16,Temporal displacement allowance
+EXP0466,EMP028,2026-10-04,Hotel Meridian,408.53,Lunch meeting with future self
+EXP0467,EMP029,2026-10-03,Quantum Airlines,600.73,Conference registration — 2042
+EXP0468,EMP030,2026-10-02,Coffee Station,45.75,Replacement parts for time machine
+EXP0469,EMP031,2026-10-01,Hotel Meridian,522.55,Hotel stay scheduled next month
+EXP0470,EMP032,2026-09-30,Quantum Airlines,752.23,Temporal displacement allowance
+EXP0471,EMP033,2026-09-29,Coffee Station,640.51,Lunch meeting with future self
+EXP0472,EMP034,2026-09-28,Hotel Meridian,333.32,Conference registration — 2042
+EXP0473,EMP035,2026-09-27,Quantum Airlines,241.55,Replacement parts for time machine
+EXP0474,EMP036,2026-09-26,Coffee Station,668.23,Hotel stay scheduled next month
+EXP0475,EMP037,2026-09-25,Hotel Meridian,799.39,Temporal displacement allowance
+EXP0476,EMP038,2026-09-24,Quantum Airlines,199.22,Lunch meeting with future self
+EXP0477,EMP039,2026-09-23,Coffee Station,163.34,Conference registration — 2042
+EXP0478,EMP040,2026-09-22,Hotel Meridian,303.42,Replacement parts for time machine
+EXP0479,EMP041,2026-09-21,Quantum Airlines,150.07,Hotel stay scheduled next month
+EXP0480,EMP042,2026-09-20,Coffee Station,196.29,Temporal displacement allowance
+EXP0481,EMP043,2026-09-19,Hotel Meridian,900.42,Lunch meeting with future self
+EXP0482,EMP044,2026-09-18,Quantum Airlines,397.73,Conference registration — 2042
+EXP0483,EMP045,2026-09-17,Coffee Station,375.95,Replacement parts for time machine
+EXP0484,EMP046,2026-09-16,Hotel Meridian,731.85,Hotel stay scheduled next month
+EXP0485,EMP047,2026-09-15,Quantum Airlines,366.90,Temporal displacement allowance
+EXP0486,EMP048,2026-09-14,Coffee Station,650.71,Lunch meeting with future self
+EXP0487,EMP049,2026-09-13,Hotel Meridian,828.34,Conference registration — 2042
+EXP0488,EMP050,2026-09-12,Quantum Airlines,879.68,Replacement parts for time machine
+EXP0489,EMP051,2026-09-11,Coffee Station,587.09,Hotel stay scheduled next month
+EXP0490,EMP052,2026-09-10,Hotel Meridian,305.46,Temporal displacement allowance
+EXP0491,EMP053,2026-09-09,Quantum Airlines,248.49,Lunch meeting with future self
+EXP0492,EMP054,2026-09-08,Coffee Station,68.12,Conference registration — 2042
+EXP0493,EMP055,2026-09-07,Hotel Meridian,213.25,Replacement parts for time machine
+EXP0494,EMP056,2026-09-06,Quantum Airlines,500.75,Hotel stay scheduled next month
+EXP0495,EMP057,2026-09-05,Coffee Station,750.66,Temporal displacement allowance
+EXP0496,EMP058,2026-09-04,Hotel Meridian,174.21,Lunch meeting with future self
+EXP0497,EMP059,2026-09-03,Quantum Airlines,101.38,Conference registration — 2042
+EXP0498,EMP060,2026-09-02,Coffee Station,598.08,Replacement parts for time machine
+EXP0499,EMP061,2026-09-01,Hotel Meridian,583.09,Hotel stay scheduled next month
+EXP0500,EMP062,2026-08-31,Quantum Airlines,781.32,Temporal displacement allowance

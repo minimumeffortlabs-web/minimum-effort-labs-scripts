@@ -11,6 +11,7 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | 002 — The Invisible Interns | [Reconcile timecards](episodes/002-invisible-interns/LESSON.md) | [Package](episodes/002-invisible-interns/) |
 | 003 — The Weather Machine | [Weather report](episodes/003-weather-machine/LESSON.md) | [Package](episodes/003-weather-machine/) |
 | 004 — The Truth Serum | [Paired survey changes](episodes/004-truth-serum/LESSON.md) | [Package](episodes/004-truth-serum/) |
+| 005 — The Time Machine | [Expense anomaly detection](episodes/005-time-machine/LESSON.md) | [Package](episodes/005-time-machine/) |
 
 ## Download and run
 

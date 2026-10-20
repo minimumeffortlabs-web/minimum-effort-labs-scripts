@@ -1,0 +1,74 @@
+source_row,expense_id,employee_id,expense_date,merchant,amount,description,anomaly_flags,explanation
+2,EXP0001,EMP001,2026-11-01,Hotel Meridian,542.06,Lunch meeting with future self,FUTURE_DATE|DUPLICATE_EXPENSE_ID|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Expense ID occurs more than once in this file. Matching claim details; human review required.
+3,EXP0002,EMP002,2026-11-02,Quantum Airlines,120.88,Conference registration — 2042,FUTURE_DATE|DUPLICATE_EXPENSE_ID|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Expense ID occurs more than once in this file. Matching claim details; human review required.
+4,EXP0003,EMP003,2026-11-03,Coffee Station,105.19,Replacement parts for time machine,FUTURE_DATE|DUPLICATE_EXPENSE_ID|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Expense ID occurs more than once in this file. Matching claim details; human review required.
+5,EXP0004,EMP004,2026-11-04,Hotel Meridian,35.47,Hotel stay scheduled next month,FUTURE_DATE|DUPLICATE_EXPENSE_ID|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Expense ID occurs more than once in this file. Matching claim details; human review required.
+6,EXP0005,EMP005,2026-11-05,Quantum Airlines,736.82,Temporal displacement allowance,FUTURE_DATE|DUPLICATE_EXPENSE_ID|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Expense ID occurs more than once in this file. Matching claim details; human review required.
+7,EXP0006,EMP006,2026-11-06,Coffee Station,790.09,Lunch meeting with future self,FUTURE_DATE|DUPLICATE_EXPENSE_ID|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Expense ID occurs more than once in this file. Matching claim details; human review required.
+8,EXP0007,EMP007,2026-11-07,Hotel Meridian,187.93,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+9,EXP0008,EMP008,2026-11-08,Quantum Airlines,782.45,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+10,EXP0009,EMP009,2026-11-09,Coffee Station,412.12,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+11,EXP0010,EMP010,2026-11-10,Hotel Meridian,660.16,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+12,EXP0011,EMP011,2026-11-11,Quantum Airlines,552.61,Lunch meeting with future self,FUTURE_DATE,Expense date is later than the audit cutoff.
+13,EXP0012,EMP012,2026-11-12,Coffee Station,465.21,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+14,EXP0013,EMP013,2026-11-13,Hotel Meridian,511.29,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+15,EXP0014,EMP014,2026-11-14,Quantum Airlines,613.92,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+16,EXP0015,EMP015,2026-11-15,Coffee Station,510.91,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+17,EXP0016,EMP016,2026-11-16,Hotel Meridian,148.96,Lunch meeting with future self,FUTURE_DATE,Expense date is later than the audit cutoff.
+18,EXP0017,EMP017,2026-11-17,Quantum Airlines,840.00,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+19,EXP0018,EMP018,2026-11-18,Coffee Station,500.04,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+20,EXP0019,EMP019,2026-11-19,Hotel Meridian,764.13,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+21,EXP0020,EMP020,2026-11-20,Quantum Airlines,469.82,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+22,EXP0021,EMP021,2026-11-21,Coffee Station,726.70,Lunch meeting with future self,FUTURE_DATE,Expense date is later than the audit cutoff.
+23,EXP0022,EMP022,2026-11-22,Hotel Meridian,139.17,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+24,EXP0023,EMP023,2026-11-23,Quantum Airlines,245.44,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+25,EXP0024,EMP024,2026-11-24,Coffee Station,356.88,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+26,EXP0025,EMP025,2026-11-25,Hotel Meridian,319.19,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+27,EXP0026,EMP026,2026-11-26,Quantum Airlines,397.46,Lunch meeting with future self,FUTURE_DATE,Expense date is later than the audit cutoff.
+28,EXP0027,EMP027,2026-11-27,Coffee Station,191.45,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+29,EXP0028,EMP028,2026-11-28,Hotel Meridian,179.85,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+30,EXP0029,EMP029,2026-11-29,Quantum Airlines,528.69,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+31,EXP0030,EMP030,2026-11-30,Coffee Station,737.21,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+32,EXP0031,EMP031,2026-12-01,Hotel Meridian,110.54,Lunch meeting with future self,FUTURE_DATE,Expense date is later than the audit cutoff.
+33,EXP0032,EMP032,2026-12-02,Quantum Airlines,838.13,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+34,EXP0033,EMP033,2026-12-03,Coffee Station,660.25,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+35,EXP0034,EMP034,2026-12-04,Hotel Meridian,72.38,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+36,EXP0035,EMP035,2026-12-05,Quantum Airlines,767.64,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+37,EXP0036,EMP036,2026-12-06,Coffee Station,82.30,Lunch meeting with future self,FUTURE_DATE,Expense date is later than the audit cutoff.
+38,EXP0037,EMP037,2026-12-07,Hotel Meridian,920.83,Conference registration — 2042,FUTURE_DATE,Expense date is later than the audit cutoff.
+39,EXP0038,EMP038,2026-12-08,Quantum Airlines,50.69,Replacement parts for time machine,FUTURE_DATE,Expense date is later than the audit cutoff.
+40,EXP0039,EMP039,2026-12-09,Coffee Station,62.71,Hotel stay scheduled next month,FUTURE_DATE,Expense date is later than the audit cutoff.
+41,EXP0040,EMP040,2026-12-10,Hotel Meridian,50.43,Temporal displacement allowance,FUTURE_DATE,Expense date is later than the audit cutoff.
+42,EXP0041,EMP041,2026-02-30,Quantum Airlines,676.19,Lunch meeting with future self,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+43,EXP0042,EMP042,2026-02-30,Coffee Station,590.56,Conference registration — 2042,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+44,EXP0043,EMP043,2026-02-30,Hotel Meridian,869.17,Replacement parts for time machine,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+45,EXP0044,EMP044,2026-02-30,Quantum Airlines,733.52,Hotel stay scheduled next month,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+46,EXP0045,EMP045,2026-02-30,Coffee Station,279.85,Temporal displacement allowance,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+47,EXP0046,EMP046,2026-02-30,Hotel Meridian,296.53,Lunch meeting with future self,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+48,EXP0047,EMP047,2026-02-30,Quantum Airlines,212.30,Conference registration — 2042,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+49,EXP0048,EMP048,2026-02-30,Coffee Station,88.40,Replacement parts for time machine,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+50,EXP0049,EMP049,,Hotel Meridian,19.66,Hotel stay scheduled next month,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+51,EXP0050,EMP050,,Quantum Airlines,772.04,Temporal displacement allowance,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+52,EXP0051,EMP051,,Coffee Station,897.29,Lunch meeting with future self,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+53,EXP0052,EMP052,,Hotel Meridian,76.66,Conference registration — 2042,INVALID_DATE,Missing or invalid YYYY-MM-DD calendar date.
+54,EXP0053,EMP053,2026-08-28,Quantum Airlines,NaN,Replacement parts for time machine,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+55,EXP0054,EMP054,2026-08-27,Coffee Station,Infinity,Hotel stay scheduled next month,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+56,EXP0055,EMP055,2026-08-26,Hotel Meridian,0,Temporal displacement allowance,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+57,EXP0056,EMP056,2026-08-25,Quantum Airlines,-5,Lunch meeting with future self,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+58,EXP0057,EMP057,2026-08-24,Coffee Station,abc,Conference registration — 2042,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+59,EXP0058,EMP058,2026-08-23,Hotel Meridian,,Replacement parts for time machine,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+60,EXP0059,EMP059,2026-08-22,Quantum Airlines,1.234,Hotel stay scheduled next month,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+61,EXP0060,EMP060,2026-08-21,Coffee Station,1e3,Temporal displacement allowance,INVALID_AMOUNT,Amount must be positive plain decimal with at most two decimal places.
+62,EXP0001,EMP061,2026-08-20,Hotel Meridian,512.27,Lunch meeting with future self,DUPLICATE_EXPENSE_ID,Expense ID occurs more than once in this file.
+63,EXP0002,EMP062,2026-08-19,Quantum Airlines,33.43,Conference registration — 2042,DUPLICATE_EXPENSE_ID,Expense ID occurs more than once in this file.
+64,EXP0003,EMP063,2026-08-18,Coffee Station,721.61,Replacement parts for time machine,DUPLICATE_EXPENSE_ID,Expense ID occurs more than once in this file.
+65,EXP0004,EMP064,2026-08-17,Hotel Meridian,548.79,Hotel stay scheduled next month,DUPLICATE_EXPENSE_ID,Expense ID occurs more than once in this file.
+66,EXP0005,EMP065,2026-08-16,Quantum Airlines,610.33,Temporal displacement allowance,DUPLICATE_EXPENSE_ID,Expense ID occurs more than once in this file.
+67,EXP0006,EMP066,2026-08-15,Coffee Station,523.95,Lunch meeting with future self,DUPLICATE_EXPENSE_ID,Expense ID occurs more than once in this file.
+68,EXP0067,EMP001,2026-11-01,Hotel Meridian,542.06,Conference registration — 2042,FUTURE_DATE|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Matching claim details; human review required.
+69,EXP0068,EMP002,2026-11-02,Quantum Airlines,120.88,Replacement parts for time machine,FUTURE_DATE|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Matching claim details; human review required.
+70,EXP0069,EMP003,2026-11-03,Coffee Station,105.19,Hotel stay scheduled next month,FUTURE_DATE|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Matching claim details; human review required.
+71,EXP0070,EMP004,2026-11-04,Hotel Meridian,35.47,Temporal displacement allowance,FUTURE_DATE|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Matching claim details; human review required.
+72,EXP0071,EMP005,2026-11-05,Quantum Airlines,736.82,Lunch meeting with future self,FUTURE_DATE|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Matching claim details; human review required.
+73,EXP0072,EMP006,2026-11-06,Coffee Station,790.09,Conference registration — 2042,FUTURE_DATE|POSSIBLE_DUPLICATE_CLAIM,Expense date is later than the audit cutoff. Matching claim details; human review required.
+74,EXP0001,EMP073,,Hotel Meridian,-1,Replacement parts for time machine,INVALID_DATE|INVALID_AMOUNT|DUPLICATE_EXPENSE_ID,Missing or invalid YYYY-MM-DD calendar date. Amount must be positive plain decimal with at most two decimal places. Expense ID occurs more than once in this file.
