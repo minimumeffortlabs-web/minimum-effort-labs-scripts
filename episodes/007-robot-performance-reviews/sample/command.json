@@ -1,0 +1,11 @@
+{
+  "argv": [
+    "python",
+    "generate_robot_reviews.py",
+    "sample/robots.csv",
+    "--output",
+    "reviews"
+  ],
+  "network": false,
+  "cwd": "episode package"
+}

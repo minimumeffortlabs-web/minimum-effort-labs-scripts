@@ -1,0 +1,1 @@
+Three fictional employees. Expected: 3 records processed and 3 reviews generated. Sample R001 Word output was reopened and content verified. invalid-robots.csv is a separate deliberate duplicate-ID fixture: expect exit 2 and no output directory. Video uses 800 records generated with seed 77007.

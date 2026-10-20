@@ -1,0 +1,4 @@
+robot_id,robot_name,department,efficiency_rating,accuracy_rating,teamwork_rating,manager_comments
+R001,Unit 001,Research and Development,2,2,4,"Reliable work, with accurate records and timely handovers."
+R002,Unit 002,Manufacturing,5,5,5,"Reliable work, with accurate records and timely handovers."
+R003,Unit 003,Accounting,5,2,2,Excellent productivity. Continues questioning the purpose of Mondays.

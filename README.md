@@ -13,6 +13,7 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | 004 — The Truth Serum | [Paired survey changes](episodes/004-truth-serum/LESSON.md) | [Package](episodes/004-truth-serum/) |
 | 005 — The Time Machine | [Expense anomaly detection](episodes/005-time-machine/LESSON.md) | [Package](episodes/005-time-machine/) |
 | 006 — The Dream Recorder | [Text frequency analysis](episodes/006-dream-recorder/LESSON.md) | [Package](episodes/006-dream-recorder/) |
+| 007 — The Robot Performance Reviews | [Word document generation](episodes/007-robot-performance-reviews/LESSON.md) | [Package](episodes/007-robot-performance-reviews/) |
 
 ## Download and run
 

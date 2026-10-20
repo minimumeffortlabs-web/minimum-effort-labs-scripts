@@ -1,0 +1,6 @@
+{
+  "episode": "007",
+  "script": "generate_robot_reviews.py",
+  "sha256": "f8d34251c5bc71fed2d564a56008fed865acb5c18efdeba568a4d6d092a246fe",
+  "identity": "Exact executable source featured in episode. Fictional robot records only."
+}
