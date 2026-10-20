@@ -1,0 +1,24 @@
+{
+  "command": "python weather_change_report.py --latitude 39.10 --longitude -94.58 --timezone America/Chicago --days 5 --output weather_report.txt --record-json weather_capture.json",
+  "exit_code": 0,
+  "elapsed_seconds": 1.4461502999765798,
+  "source_sha256": "d867758a947b350a6139d26c53fc33ba24a4c6becb215120da6720137e48850b",
+  "stdout_sha256": "0433e8e5fa9c3a6a5498cb96bdf8c13a1d533cff3573180ea73720b2ce4bcff4",
+  "report_sha256": "24e631d2761cf435ac5e7e462c30b36460b4fdcb5b5d862c9654efa5e4d7bcf9",
+  "capture_sha256": "e5f58702d89c45c4fe1167b39c4ec2258b6743de901865c3f6c4672ab315c81b",
+  "kind": "recorded-live-api",
+  "days": 5,
+  "params": {
+    "latitude": 39.1,
+    "longitude": -94.58,
+    "timezone": "America/Chicago",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-19",
+    "daily": "temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max",
+    "temperature_unit": "celsius",
+    "precipitation_unit": "mm",
+    "wind_speed_unit": "kmh",
+    "timeformat": "iso8601"
+  },
+  "retrieved_at": "2026-10-20T05:31:11.932425+00:00"
+}

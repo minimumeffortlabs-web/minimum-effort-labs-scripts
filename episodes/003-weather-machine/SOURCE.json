@@ -1,0 +1,6 @@
+{
+  "episode": "003",
+  "script": "weather_change_report.py",
+  "sha256": "d867758a947b350a6139d26c53fc33ba24a4c6becb215120da6720137e48850b",
+  "identity": "Exact production-tested program featured in the episode; no source changes."
+}

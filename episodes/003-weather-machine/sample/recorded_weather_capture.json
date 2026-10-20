@@ -1,0 +1,70 @@
+{
+  "kind": "recorded-live-api",
+  "retrieved_at": "2026-10-20T05:31:11.932425+00:00",
+  "params": {
+    "latitude": 39.1,
+    "longitude": -94.58,
+    "timezone": "America/Chicago",
+    "start_date": "2026-10-15",
+    "end_date": "2026-10-19",
+    "daily": "temperature_2m_max,temperature_2m_min,precipitation_sum,wind_speed_10m_max",
+    "temperature_unit": "celsius",
+    "precipitation_unit": "mm",
+    "wind_speed_unit": "kmh",
+    "timeformat": "iso8601"
+  },
+  "api_url": "https://api.open-meteo.com/v1/forecast",
+  "response": {
+    "latitude": 39.108913,
+    "longitude": -94.58583,
+    "generationtime_ms": 0.07164478302001953,
+    "utc_offset_seconds": -18000,
+    "timezone": "America/Chicago",
+    "timezone_abbreviation": "GMT-5",
+    "elevation": 276.0,
+    "daily_units": {
+      "time": "iso8601",
+      "temperature_2m_max": "\u00b0C",
+      "temperature_2m_min": "\u00b0C",
+      "precipitation_sum": "mm",
+      "wind_speed_10m_max": "km/h"
+    },
+    "daily": {
+      "time": [
+        "2026-10-15",
+        "2026-10-16",
+        "2026-10-17",
+        "2026-10-18",
+        "2026-10-19"
+      ],
+      "temperature_2m_max": [
+        22.4,
+        11.6,
+        16.1,
+        20.0,
+        18.5
+      ],
+      "temperature_2m_min": [
+        11.6,
+        4.9,
+        2.2,
+        3.8,
+        6.0
+      ],
+      "precipitation_sum": [
+        9.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "wind_speed_10m_max": [
+        21.2,
+        23.2,
+        9.7,
+        18.3,
+        9.9
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+MINIMUM EFFORT LABS — WEATHER CHANGE REPORT
+Requested coordinates: 39.1, -94.58
+Provider grid coordinates: 39.108913, -94.58583
+Timezone: America/Chicago; daily UTC offset: -18000 seconds
+Period: 2026-10-15 to 2026-10-19
+Retrieved (UTC): 2026-10-20T05:31:11.932425+00:00
+Capture kind: recorded-live-api
+Source: Open-Meteo Forecast API, https://open-meteo.com/ (CC BY 4.0)
+Method: model-derived daily aggregates, not direct station observations.
+Units: temperature C; precipitation mm; maximum wind km/h.
+Precipitation includes rain, showers and snow water equivalent.
+Date        Min C   Max C  Change C   Precip mm   Wind km/h
+2026-10-15   11.6    22.4        NA         9.0        21.2
+2026-10-16    4.9    11.6     -10.8         0.0        23.2
+2026-10-17    2.2    16.1      +4.5         0.0         9.7
+2026-10-18    3.8    20.0      +3.9         0.0        18.3
+2026-10-19    6.0    18.5      -1.5         0.0         9.9
+
+Change C compares consecutive daily maxima; first day is NA.
+Warmest daily maximum: 22.4 C on 2026-10-15 (5/5 days available)
+Coldest daily minimum: 2.2 C on 2026-10-17 (5/5 days available)
+Highest reported daily maximum wind: 23.2 km/h on 2026-10-16 (5/5 days available)
+Period precipitation total: 9.0 mm
+Missing data: none in requested daily arrays.
+Weather changes alone do not establish causation or prove machine effectiveness.
+Administrative status: Report complete. Machine effectiveness: Not established.

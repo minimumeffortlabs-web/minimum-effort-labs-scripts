@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "python",
+    "reconcile_timecards.py",
+    "sample/timecards.csv",
+    "sample/door_access.csv",
+    "--output",
+    "discrepancies.csv"
+  ],
+  "cwd": "episode directory",
+  "network": false
+}

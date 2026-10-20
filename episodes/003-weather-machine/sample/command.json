@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "python",
+    "weather_change_report.py",
+    "--replay",
+    "sample/recorded_weather_capture.json",
+    "--output",
+    "weather_report.txt"
+  ],
+  "cwd": "episode directory",
+  "network": false
+}

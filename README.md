@@ -8,6 +8,8 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | Episode | Lesson | Script and setup |
 | --- | --- | --- |
 | 001 — The Sentient Toaster | [Merge PDFs](episodes/001-sentient-toaster/LESSON.md) | [Package](episodes/001-sentient-toaster/) |
+| 002 — The Invisible Interns | [Reconcile timecards](episodes/002-invisible-interns/LESSON.md) | [Package](episodes/002-invisible-interns/) |
+| 003 — The Weather Machine | [Weather report](episodes/003-weather-machine/LESSON.md) | [Package](episodes/003-weather-machine/) |
 
 ## Download and run
 
@@ -39,3 +41,7 @@ Code licensing awaits the owner's decision; see [LICENSING.md](LICENSING.md).
 No verified YouTube episode URL has been supplied. Episode 001 passed eight
 unittest checks on Windows with CPython 3.10.6 and pypdf 6.21.1, including
 the documented three-PDF sample and input-preservation checks.
+
+Episodes 002 and 003 passed 15 and 23 unittest checks respectively, including
+the documented offline samples. Episode 003 uses recorded Open-Meteo data;
+see its [sample provenance and attribution](episodes/003-weather-machine/sample/README.md).

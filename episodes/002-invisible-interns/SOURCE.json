@@ -1,0 +1,6 @@
+{
+  "episode": "002",
+  "script": "reconcile_timecards.py",
+  "sha256": "3a54379ca5d981d63d025b50a7dc8f51b3d2106efb936310dcc031cae3fbd966",
+  "identity": "Exact production-tested program featured in the episode; no source changes."
+}
