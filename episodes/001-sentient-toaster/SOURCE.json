@@ -1,0 +1,6 @@
+{
+  "episode": "001",
+  "script": "merge_pdfs.py",
+  "sha256": "2b1773005be30c90e5856ba2784c5034691807ba423fe71243764f5dcbe9ec94",
+  "identity": "Exact production-tested program featured in the episode; no source changes."
+}

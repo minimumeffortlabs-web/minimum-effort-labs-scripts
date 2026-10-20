@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.venv-*/
+merged.pdf
+merge_report.json
+discrepancies.csv
+weather_report.txt
+live_report.txt
+live_capture.json

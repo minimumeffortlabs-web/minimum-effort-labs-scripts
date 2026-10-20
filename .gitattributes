@@ -1,0 +1,5 @@
+*.py -text
+*.pdf binary
+*.csv -text
+*.json -text
+*.txt -text
