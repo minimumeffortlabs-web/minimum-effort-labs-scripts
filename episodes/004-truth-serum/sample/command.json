@@ -1,0 +1,12 @@
+{
+  "argv": [
+    "python",
+    "compare_survey_results.py",
+    "sample/before.csv",
+    "sample/after.csv",
+    "--output",
+    "report.txt"
+  ],
+  "cwd": "episode directory",
+  "network": false
+}

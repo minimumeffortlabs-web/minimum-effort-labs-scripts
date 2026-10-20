@@ -1,0 +1,6 @@
+{
+  "episode": "004",
+  "script": "compare_survey_results.py",
+  "sha256": "ec8a0feede209b722efcaa2cdb7a598c8696510919d8b3eb0204c7792d6b50a7",
+  "identity": "Exact source used in the video; no animation dependencies."
+}

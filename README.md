@@ -10,6 +10,7 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | 001 — The Sentient Toaster | [Merge PDFs](episodes/001-sentient-toaster/LESSON.md) | [Package](episodes/001-sentient-toaster/) |
 | 002 — The Invisible Interns | [Reconcile timecards](episodes/002-invisible-interns/LESSON.md) | [Package](episodes/002-invisible-interns/) |
 | 003 — The Weather Machine | [Weather report](episodes/003-weather-machine/LESSON.md) | [Package](episodes/003-weather-machine/) |
+| 004 — The Truth Serum | [Paired survey changes](episodes/004-truth-serum/LESSON.md) | [Package](episodes/004-truth-serum/) |
 
 ## Download and run
 

@@ -1,0 +1,25 @@
+PAIRED SURVEY REPORT — FICTIONAL DEMONSTRATION
+Scale: integers 1–10. All means use the SAME valid paired participants.
+Paired valid responses: 4
+Mean before: 8.50
+Mean after: 2.50
+Mean paired change (after - before): -6.00
+Declines: 4; improvements: 0; unchanged: 0
+Before-only IDs: none
+After-only IDs: none
+Invalid or duplicate records are excluded, never replaced with zero.
+
+customer_id,before,after,change
+C001,9,3,-6
+C002,8,2,-6
+C003,10,4,-6
+C004,7,1,-6
+
+BEFORE VALIDATION
+No issues
+
+AFTER VALIDATION
+No issues
+
+Observed response differences do not independently establish causation.
+This fictional before/after design cannot prove that a serum caused the change.
