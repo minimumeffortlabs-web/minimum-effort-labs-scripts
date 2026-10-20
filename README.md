@@ -12,6 +12,7 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | 003 — The Weather Machine | [Weather report](episodes/003-weather-machine/LESSON.md) | [Package](episodes/003-weather-machine/) |
 | 004 — The Truth Serum | [Paired survey changes](episodes/004-truth-serum/LESSON.md) | [Package](episodes/004-truth-serum/) |
 | 005 — The Time Machine | [Expense anomaly detection](episodes/005-time-machine/LESSON.md) | [Package](episodes/005-time-machine/) |
+| 006 — The Dream Recorder | [Text frequency analysis](episodes/006-dream-recorder/LESSON.md) | [Package](episodes/006-dream-recorder/) |
 
 ## Download and run
 

@@ -1,0 +1,13 @@
+{
+  "argv": [
+    "python",
+    "dream_transcript_analyzer.py",
+    "sample/transcripts",
+    "--output",
+    "dream_report.txt",
+    "--top",
+    "10"
+  ],
+  "network": false,
+  "cwd": "episode package"
+}

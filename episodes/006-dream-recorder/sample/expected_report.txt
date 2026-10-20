@@ -1,0 +1,34 @@
+Dream transcript frequency report
+Observable text patterns; not psychological interpretation.
+Valid transcript files: 3
+Empty/tokenless files: 0
+Extracted words: 45
+Analyzed non-stop words: 32
+
+Top 10 words:
+1. expense: 6
+2. reports: 5
+3. coffee: 2
+4. missing: 2
+5. receipts: 2
+6. another: 1
+7. became: 1
+8. chased: 1
+9. demanded: 1
+10. drifted: 1
+
+Top 10 adjacent two-word phrases:
+1. expense reports: 5
+2. missing receipts: 2
+3. another expense: 1
+4. coffee machine: 1
+5. demanded expense: 1
+6. drifted past: 1
+7. expense report: 1
+8. flying over: 1
+9. over expense: 1
+10. printer demanded: 1
+
+Phrases use adjacent original tokens within each file.
+Pairs containing a stop word are excluded; punctuation is ignored.
+Counts are occurrences, not counts of employees or dreams.

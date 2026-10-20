@@ -1,0 +1,1 @@
+Three hand-inspectable fictional teaching transcripts produce expected_report.txt (3 files, 45 extracted/32 analyzed words). The full video dataset has 300 files generated with seed 76006; see full_expected_report.txt and the README reproduction commands. Occurrences are not counts of employees or dreams.
