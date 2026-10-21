@@ -1,0 +1,1 @@
+Fictional35-event sample with shuffled records, seed80010; expected_timeline.txt and expected_stdout.txt are actual sample execution. Video uses1000 separately generated events; full_expected_stdout.txt records its different counts. Edge-case directory deliberately returns exit1 with a report, not clean success. No private logs.

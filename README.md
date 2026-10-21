@@ -16,6 +16,7 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | 007 — The Robot Performance Reviews | [Word document generation](episodes/007-robot-performance-reviews/LESSON.md) | [Package](episodes/007-robot-performance-reviews/) |
 | 008 — The AI Refrigerator | [Email parsing and complaint categories](episodes/008-ai-refrigerator/LESSON.md) | [Package](episodes/008-ai-refrigerator/) |
 | 009 — The Portal Incident | [Decimal invoice validation](episodes/009-portal-incident/LESSON.md) | [Package](episodes/009-portal-incident/) |
+| 010 — The Memory Wipe | [JSON event timelines](episodes/010-memory-wipe/LESSON.md) | [Package](episodes/010-memory-wipe/) |
 
 ## Download and run
 

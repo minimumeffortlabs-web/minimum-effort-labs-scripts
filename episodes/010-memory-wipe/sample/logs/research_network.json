@@ -1,0 +1,37 @@
+[
+  {
+    "event_id": "EVT000013",
+    "timestamp": "2026-10-18T19:25:01-07:00",
+    "source": "RESEARCH_NETWORK",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000006",
+    "timestamp": "2026-10-19T17:30:00+05:30",
+    "source": "RESEARCH_NETWORK",
+    "event_type": "CAFETERIA_REOPENED",
+    "description": "Employee cafeteria reopened."
+  },
+  {
+    "event_id": "EVT000027",
+    "timestamp": "2026-10-19T02:58:59+00:00",
+    "source": "RESEARCH_NETWORK",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000020",
+    "timestamp": "2026-10-19T09:00:45+05:30",
+    "source": "RESEARCH_NETWORK",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000034",
+    "timestamp": "2026-10-19T18:08:42+05:30",
+    "source": "RESEARCH_NETWORK",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  }
+]

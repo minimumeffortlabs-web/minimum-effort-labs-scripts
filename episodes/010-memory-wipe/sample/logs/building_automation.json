@@ -1,0 +1,37 @@
+[
+  {
+    "event_id": "EVT000025",
+    "timestamp": "2026-10-19T22:15:58+09:00",
+    "source": "BUILDING_AUTOMATION",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000018",
+    "timestamp": "2026-10-19T20:09:49+05:30",
+    "source": "BUILDING_AUTOMATION",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000011",
+    "timestamp": "2026-10-18T15:28:49+05:30",
+    "source": "BUILDING_AUTOMATION",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000004",
+    "timestamp": "2026-10-18T17:06:00+09:00",
+    "source": "BUILDING_AUTOMATION",
+    "event_type": "CONTAINMENT_STARTED",
+    "description": "Emergency containment protocol initiated."
+  },
+  {
+    "event_id": "EVT000032",
+    "timestamp": "2026-10-18T21:22:05-07:00",
+    "source": "BUILDING_AUTOMATION",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  }
+]

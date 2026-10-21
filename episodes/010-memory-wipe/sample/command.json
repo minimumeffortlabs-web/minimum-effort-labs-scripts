@@ -1,0 +1,11 @@
+{
+  "argv": [
+    "python",
+    "reconstruct_event_timeline.py",
+    "sample/logs",
+    "--output",
+    "timeline.txt"
+  ],
+  "network": false,
+  "cwd": "episode package"
+}

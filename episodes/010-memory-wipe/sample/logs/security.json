@@ -1,0 +1,37 @@
+[
+  {
+    "event_id": "EVT000009",
+    "timestamp": "2026-10-19T10:00:48-07:00",
+    "source": "SECURITY",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000016",
+    "timestamp": "2026-10-18T18:54:21+09:00",
+    "source": "SECURITY",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000002",
+    "timestamp": "2026-10-19T23:59:59+00:00",
+    "source": "SECURITY",
+    "event_type": "MEETING_RESTARTED",
+    "description": "Management meeting restarted."
+  },
+  {
+    "event_id": "EVT000023",
+    "timestamp": "2026-10-19T10:22:39+09:00",
+    "source": "SECURITY",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  },
+  {
+    "event_id": "EVT000030",
+    "timestamp": "2026-10-18T18:01:56-07:00",
+    "source": "SECURITY",
+    "event_type": "ROUTINE_CHECK",
+    "description": "Routine authorized system check completed."
+  }
+]
