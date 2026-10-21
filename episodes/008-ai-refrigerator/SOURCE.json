@@ -1,0 +1,6 @@
+{
+  "episode": "008",
+  "script": "analyze_fridge_complaints.py",
+  "sha256": "77606a23b4b71c9d7a08be4c37af2f9a38f2138068221cf740263a2a0aee5345",
+  "identity": "Exact executable source used for the email-processing lesson; fictional local data only."
+}

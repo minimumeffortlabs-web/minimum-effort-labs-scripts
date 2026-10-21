@@ -1,0 +1,44 @@
+{
+  "seed": 78008,
+  "records": [
+    {
+      "filename": "complaint_001.eml",
+      "expected_categories": [
+        "FOOD_ACCESS_DENIED",
+        "FOOD_DISPOSAL"
+      ]
+    },
+    {
+      "filename": "complaint_002.eml",
+      "expected_categories": [
+        "INCORRECT_PERFORMANCE_RATING"
+      ]
+    },
+    {
+      "filename": "complaint_003.eml",
+      "expected_categories": [
+        "INCORRECT_PERFORMANCE_RATING",
+        "UNAUTHORIZED_EMPLOYEE_DATA_ACCESS"
+      ]
+    },
+    {
+      "filename": "complaint_004.eml",
+      "expected_categories": [
+        "FOOD_DISPOSAL"
+      ]
+    },
+    {
+      "filename": "complaint_005.eml",
+      "expected_categories": [
+        "UNAUTHORIZED_EMPLOYEE_DATA_ACCESS",
+        "UNEXPECTED_FRIDGE_BEHAVIOR"
+      ]
+    },
+    {
+      "filename": "complaint_006.eml",
+      "expected_categories": [
+        "OTHER"
+      ]
+    }
+  ]
+}

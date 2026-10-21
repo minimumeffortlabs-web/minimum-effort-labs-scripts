@@ -1,0 +1,4 @@
+source_file,sender,subject,categories,status,notes
+bad.eml,,,,ERROR,NO_RECOGNIZABLE_HEADERS
+no-body.eml,fictional@example.invalid,Shelf labels,OTHER,PARSED_WARNINGS,EMPTY_BODY
+unknown-charset.eml,,,,ERROR,LookupError

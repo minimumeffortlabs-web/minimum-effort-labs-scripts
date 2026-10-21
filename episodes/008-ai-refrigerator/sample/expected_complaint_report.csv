@@ -1,0 +1,7 @@
+source_file,sender,subject,categories,status,notes
+complaint_001.eml,Fictional Employee 001 <employee001@example.invalid>,Fictional appliance complaint 001,FOOD_ACCESS_DENIED;FOOD_DISPOSAL,PARSED,
+complaint_002.eml,Fictional Employee 002 <employee002@example.invalid>,Fictional appliance complaint 002,INCORRECT_PERFORMANCE_RATING,PARSED,
+complaint_003.eml,Fictional Employee 003 <employee003@example.invalid>,Fictional appliance complaint 003,INCORRECT_PERFORMANCE_RATING;UNAUTHORIZED_EMPLOYEE_DATA_ACCESS,PARSED,
+complaint_004.eml,Fictional Employee 004 <employee004@example.invalid>,Fictional appliance complaint 004,FOOD_DISPOSAL,PARSED,
+complaint_005.eml,Fictional Employee 005 <employee005@example.invalid>,Fictional appliance complaint 005,UNAUTHORIZED_EMPLOYEE_DATA_ACCESS;UNEXPECTED_FRIDGE_BEHAVIOR,PARSED,
+complaint_006.eml,Fictional Employee 006 <employee006@example.invalid>,Fictional appliance complaint 006,OTHER,PARSED,

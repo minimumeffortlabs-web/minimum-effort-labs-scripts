@@ -1,0 +1,9 @@
+Parsed: 400/400 | Errors: 0
+Categorized: 334 | Other: 66
+Category matches: 455
+Denied food: 91
+Incorrect ratings: 93
+Employee data access: 93
+Food disposal: 87
+Unexpected behavior: 91
+Report: complaint_report.csv

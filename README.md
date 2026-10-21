@@ -14,6 +14,7 @@ lessons accompany MEL's animated workplace comedy and work without the videos.
 | 005 — The Time Machine | [Expense anomaly detection](episodes/005-time-machine/LESSON.md) | [Package](episodes/005-time-machine/) |
 | 006 — The Dream Recorder | [Text frequency analysis](episodes/006-dream-recorder/LESSON.md) | [Package](episodes/006-dream-recorder/) |
 | 007 — The Robot Performance Reviews | [Word document generation](episodes/007-robot-performance-reviews/LESSON.md) | [Package](episodes/007-robot-performance-reviews/) |
+| 008 — The AI Refrigerator | [Email parsing and complaint categories](episodes/008-ai-refrigerator/LESSON.md) | [Package](episodes/008-ai-refrigerator/) |
 
 ## Download and run
 

@@ -1,0 +1,9 @@
+Parsed: 1/3 | Errors: 2
+Categorized: 0 | Other: 1
+Category matches: 0
+Denied food: 0
+Incorrect ratings: 0
+Employee data access: 0
+Food disposal: 0
+Unexpected behavior: 0
+Report: expected_edge_report.csv

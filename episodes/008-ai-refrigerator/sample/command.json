@@ -1,0 +1,11 @@
+{
+  "argv": [
+    "python",
+    "analyze_fridge_complaints.py",
+    "sample/emails",
+    "--output",
+    "complaint_report.csv"
+  ],
+  "network": false,
+  "cwd": "episode package"
+}

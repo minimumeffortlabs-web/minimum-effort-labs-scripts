@@ -3,3 +3,4 @@
 *.csv -text
 *.json -text
 *.txt -text
+*.eml -text

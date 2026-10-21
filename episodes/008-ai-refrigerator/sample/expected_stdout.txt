@@ -1,0 +1,9 @@
+Parsed: 6/6 | Errors: 0
+Categorized: 5 | Other: 1
+Category matches: 8
+Denied food: 1
+Incorrect ratings: 2
+Employee data access: 2
+Food disposal: 2
+Unexpected behavior: 1
+Report: expected_complaint_report.csv
