@@ -1,0 +1,9 @@
+Invoices: 30 | Flagged: 8
+Valid: 22 | Flags: 10
+Missing: 0 | Invalid IDs: 0
+Invalid dates: 1
+Unknown currencies: 2
+Invalid amounts: 1
+Duplicate IDs: 2
+Possible duplicate claims: 4
+Report: expected_audit_report.csv

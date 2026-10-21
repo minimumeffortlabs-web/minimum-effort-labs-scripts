@@ -1,0 +1,6 @@
+currency_code,description,decimal_places
+USD,Accounting USD policy,2
+EUR,Accounting EUR policy,2
+GBP,Accounting GBP policy,2
+JPY,Accounting JPY policy,0
+KWD,Accounting KWD policy,3

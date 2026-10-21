@@ -1,0 +1,31 @@
+invoice_id,vendor_id,invoice_date,currency,amount,description,validation_status,anomaly_flags,explanation
+INV00001,VEN00001,2026-10-01,USD,3372.12,Replacement containment field,VALID,,
+INV00002,VEN00002,2026-10-02,EUR,1664.12,Temporal customs processing,FLAGGED,DUPLICATE_INVOICE_ID,Invoice ID repeats in this input; all members flagged
+INV00002,VEN00003,2026-10-03,GBP,4660.12,Interdimensional office supplies,FLAGGED,DUPLICATE_INVOICE_ID,Invoice ID repeats in this input; all members flagged
+INV00004,VEN00004,2026-10-04,JPY,4967,Quantum freight inspection,VALID,,
+INV00005,VEN00005,2026-10-05,KWD,6521.123,Dimensional visitor parking,VALID,,
+INV00006,VEN00006,2026-10-06,USD,4641.12,Interdimensional office supplies,VALID,,
+INV00007,VEN00007,2026-10-07,EUR,1866.12,Replacement containment field,FLAGGED,POSSIBLE_DUPLICATE_INVOICE,Matching vendor/date/currency/amount/description; review all members
+INV00008,VEN00007,2026-10-07,EUR,1866.12,Replacement containment field,FLAGGED,POSSIBLE_DUPLICATE_INVOICE,Matching vendor/date/currency/amount/description; review all members
+INV00009,VEN00009,2026-10-09,JPY,1929,Emergency portal stabilization,VALID,,
+INV00010,VEN00010,2026-10-10,KWD,995.123,Dimensional visitor parking,VALID,,
+INV00011,VEN00011,2026-10-11,USD,3119.12,Emergency portal stabilization,VALID,,
+INV00012,VEN00012,2026-10-12,EUR,1840.12,Interdimensional portal maintenance,VALID,,
+INV00013,VEN00013,2026-10-13,GBP,7665.12,Interdimensional portal maintenance,VALID,,
+INV00014,VEN00014,2026-10-14,JPY,1748,Replacement containment field,VALID,,
+INV00015,VEN00015,2026-10-15,KWD,3830.123,Quantum freight inspection,VALID,,
+INV00016,VEN00016,2026-10-16,USD,5834.12,Replacement containment field,VALID,,
+INV00017,VEN00017,2026-10-17,EUR,7537.12,Alternate-reality shipping surcharge,VALID,,
+INV00018,VEN00018,2026-10-18,GBP,2213.12,Alternate-reality shipping surcharge,VALID,,
+INV00019,VEN00019,2026-10-19,JPY,7139,Dimensional visitor parking,VALID,,
+INV00020,VEN00020,2026-10-20,KWD,'-1,Alternate-reality shipping surcharge,FLAGGED,INVALID_AMOUNT,Not finite and positive
+INV00021,VEN00021,2026-10-21,USD,3533.12,Interdimensional office supplies,VALID,,
+INV00022,VEN00022,2026-10-22,EUR,8850.12,Temporal customs processing,VALID,,
+INV00023,VEN00023,2026-10-23,GBP,8338.12,Dimensional visitor parking,VALID,,
+INV00024,VEN00024,2026-10-24,JPY,4677,Temporal customs processing,VALID,,
+INV00025,VEN00025,2026-10-25,VOID,7706.123,Interdimensional office supplies,FLAGGED,UNKNOWN_CURRENCY;POSSIBLE_DUPLICATE_INVOICE,Currency is not in the supplied Accounting configuration; Matching vendor/date/currency/amount/description; review all members
+INV00026,VEN00025,2026-10-25,VOID,7706.123,Interdimensional office supplies,FLAGGED,UNKNOWN_CURRENCY;POSSIBLE_DUPLICATE_INVOICE,Currency is not in the supplied Accounting configuration; Matching vendor/date/currency/amount/description; review all members
+INV00027,VEN00027,2026-10-27,EUR,5212.12,Dimensional visitor parking,VALID,,
+INV00028,VEN00028,2026-10-28,GBP,1065.12,Dimensional visitor parking,VALID,,
+INV00029,VEN00029,2026-10-01,JPY,9060,Replacement containment field,VALID,,
+INV00030,VEN00030,2026-02-30,KWD,7512.123,Temporal customs processing,FLAGGED,INVALID_DATE,Expected a real YYYY-MM-DD calendar date

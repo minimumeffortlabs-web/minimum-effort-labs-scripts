@@ -1,0 +1,145 @@
+{
+  "seed": 79009,
+  "count": 30,
+  "fictional": true,
+  "expected": [
+    {
+      "row": 1,
+      "flags": []
+    },
+    {
+      "row": 2,
+      "flags": [
+        "DUPLICATE_INVOICE_ID"
+      ]
+    },
+    {
+      "row": 3,
+      "flags": [
+        "DUPLICATE_INVOICE_ID"
+      ]
+    },
+    {
+      "row": 4,
+      "flags": []
+    },
+    {
+      "row": 5,
+      "flags": []
+    },
+    {
+      "row": 6,
+      "flags": []
+    },
+    {
+      "row": 7,
+      "flags": [
+        "POSSIBLE_DUPLICATE_INVOICE"
+      ]
+    },
+    {
+      "row": 8,
+      "flags": [
+        "POSSIBLE_DUPLICATE_INVOICE"
+      ]
+    },
+    {
+      "row": 9,
+      "flags": []
+    },
+    {
+      "row": 10,
+      "flags": []
+    },
+    {
+      "row": 11,
+      "flags": []
+    },
+    {
+      "row": 12,
+      "flags": []
+    },
+    {
+      "row": 13,
+      "flags": []
+    },
+    {
+      "row": 14,
+      "flags": []
+    },
+    {
+      "row": 15,
+      "flags": []
+    },
+    {
+      "row": 16,
+      "flags": []
+    },
+    {
+      "row": 17,
+      "flags": []
+    },
+    {
+      "row": 18,
+      "flags": []
+    },
+    {
+      "row": 19,
+      "flags": []
+    },
+    {
+      "row": 20,
+      "flags": [
+        "INVALID_AMOUNT"
+      ]
+    },
+    {
+      "row": 21,
+      "flags": []
+    },
+    {
+      "row": 22,
+      "flags": []
+    },
+    {
+      "row": 23,
+      "flags": []
+    },
+    {
+      "row": 24,
+      "flags": []
+    },
+    {
+      "row": 25,
+      "flags": [
+        "POSSIBLE_DUPLICATE_INVOICE",
+        "UNKNOWN_CURRENCY"
+      ]
+    },
+    {
+      "row": 26,
+      "flags": [
+        "POSSIBLE_DUPLICATE_INVOICE",
+        "UNKNOWN_CURRENCY"
+      ]
+    },
+    {
+      "row": 27,
+      "flags": []
+    },
+    {
+      "row": 28,
+      "flags": []
+    },
+    {
+      "row": 29,
+      "flags": []
+    },
+    {
+      "row": 30,
+      "flags": [
+        "INVALID_DATE"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "argv": [
+    "python",
+    "validate_portal_invoices.py",
+    "sample/invoices.csv",
+    "--currencies",
+    "sample/approved_currencies.csv",
+    "--output",
+    "audit_report.csv"
+  ],
+  "network": false,
+  "cwd": "episode package"
+}
